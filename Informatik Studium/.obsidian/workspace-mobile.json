@@ -11,17 +11,28 @@
             "id": "1d5b88893dd9dc72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notizen.md",
-                "mode": "source",
-                "source": false
+                "file": "ERA/Logik.md"
               },
-              "icon": "lucide-file",
-              "title": "Notizen"
+              "icon": "excalidraw-icon",
+              "title": "Logik"
+            }
+          },
+          {
+            "id": "722edbe9f862d1a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ERA/Mengen.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mengen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notizen.md",
+            "file": "ERA/Mengen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,10 +166,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1d5b88893dd9dc72",
+  "active": "722edbe9f862d1a9",
   "lastOpenFiles": [
-    "Termine.md",
+    "ERA/Untitled.md",
+    "ERA/Mengen.md",
+    "ERA/Untitled 1.md",
+    "ERA/Logik.md",
     "Notizen.md",
+    "Termine.md",
     "TODO.md",
     "TODO",
     "DS",
