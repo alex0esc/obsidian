@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Mengen"
             }
+          },
+          {
+            "id": "92ff3459b26fcf8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ERA/Logik.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Logik"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ERA/Mengen.md",
+            "file": "ERA/Logik.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,12 +178,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "722edbe9f862d1a9",
+  "active": "92ff3459b26fcf8f",
   "lastOpenFiles": [
-    "ERA/Untitled.md",
+    "ERA/Beweise.md",
     "ERA/Mengen.md",
-    "ERA/Untitled 1.md",
     "ERA/Logik.md",
+    "ERA/Untitled.md",
+    "ERA/Untitled 1.md",
     "Notizen.md",
     "Termine.md",
     "TODO.md",
