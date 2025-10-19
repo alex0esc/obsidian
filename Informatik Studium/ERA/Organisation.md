@@ -1,0 +1,12 @@
+- Vorlesung => Zentralübung => Tutorium
+- TomOnline für Anmeldungen
+- Moodle für Übungsblätter und Vorlesungsfolien
+- Zulip für Ankündigungen und Kommunikation https://zulip.in.tum.de
+- Hausaufgaben auf Artemis
+- Nachteilsausgleiche auf www.cit.tum.de/cit/studium/studierende/beratung/informatik/barrierefrei-studieren
+- Mit Nachteilsausgleich melden
+- Übungsblätter für Tutorien ab Freitag um 16 Uhr (10 Tage Zeit)
+- Anmeldung für Era Tutorium bis 24Uhr
+- 0.3 bis 0.4 ab 80% der erreichabren HA punkte
+- Außerdem Bonus Punkte und Aufgaben
+- 
