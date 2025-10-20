@@ -1,0 +1,4 @@
+- Sehr dynamisch
+- Wird fast überall verwendet
+- Verarbeitet Input und gibt Output aus => Funktion
+- Algorithmus ist die Beschreibung eines Programmablaufs
