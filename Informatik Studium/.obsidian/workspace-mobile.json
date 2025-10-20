@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7762215c5d565c9",
+        "id": "bff81939bfe413f0",
         "type": "tabs",
         "children": [
           {
-            "id": "1d5b88893dd9dc72",
+            "id": "c6a04a1e1c08efbc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ERA/Logik.md"
+                "file": "DS/Tutorium 0.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Logik"
-            }
-          },
-          {
-            "id": "722edbe9f862d1a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ERA/Mengen.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Mengen"
-            }
-          },
-          {
-            "id": "92ff3459b26fcf8f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ERA/Logik.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Logik"
+              "title": "Tutorium 0"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ERA/Logik.md",
+            "file": "DS/Tutorium 0.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,16 +153,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "92ff3459b26fcf8f",
+  "active": "c6a04a1e1c08efbc",
   "lastOpenFiles": [
-    "ERA/Beweise.md",
-    "ERA/Mengen.md",
-    "ERA/Logik.md",
+    "DS/Logik.md",
+    "ERA/Abstraktionsschichten.md",
+    "ERA/Risc V.md",
+    "DS/Tutorium 0.md",
+    "Images/screenshot 3.png",
+    "screenshot.png",
+    "DS/Beweise.md",
+    "Images/screenshot 1.png",
+    "TODO.md",
+    "DS/Mengen.md",
+    "Images/screenshot.png",
+    "Images",
+    "Images/screenshot 2.png",
+    "Notizen.md",
+    "2025-10-20.md",
+    "Images/image.jpg",
+    "Untitled.md",
+    "ERA/Zentralübung 0.md",
+    "ERA/Organisation.md",
+    "Images/Screenshot_2025-10-20_12-09-28.png",
+    "DS/Tutorium 1.md",
     "ERA/Untitled.md",
     "ERA/Untitled 1.md",
-    "Notizen.md",
     "Termine.md",
-    "TODO.md",
     "TODO",
     "DS",
     "GPP",
