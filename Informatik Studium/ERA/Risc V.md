@@ -1,0 +1,3 @@
+- Befehlsformat ist normal nicht Variabel => 4 byte
+- opcode am Ende des Befehls, um den Typ des Befehls zu erkennen
+- 

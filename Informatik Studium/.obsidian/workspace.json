@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Zentralübung 0.md",
+                "file": "ERA/Risc V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zentralübung 0"
+              "title": "Risc V"
             }
           },
           {
@@ -184,8 +184,11 @@
   },
   "active": "97b3f1f953404e26",
   "lastOpenFiles": [
-    "ERA/Organisation.md",
+    "ERA/Abstraktionsschichten.md",
+    "ERA/Risc V.md",
     "ERA/Zentralübung 0.md",
+    "ERA/Organisation.md",
+    "Screenshot_2025-10-20_12-09-28.png",
     "DS/Beweise.md",
     "DS/Logik.md",
     "DS/Mengen.md",

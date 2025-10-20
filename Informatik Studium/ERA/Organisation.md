@@ -9,4 +9,3 @@
 - Anmeldung für Era Tutorium bis 24Uhr
 - 0.3 bis 0.4 ab 80% der erreichabren HA punkte
 - Außerdem Bonus Punkte und Aufgaben
-- 
