@@ -11,12 +11,14 @@
             "id": "c6a04a1e1c08efbc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DS/Tutorium 0.md"
+                "file": "ERA/Zentralübung 0.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Tutorium 0"
+              "icon": "lucide-file",
+              "title": "Zentralübung 0"
             }
           }
         ]
@@ -155,10 +157,10 @@
   },
   "active": "c6a04a1e1c08efbc",
   "lastOpenFiles": [
-    "DS/Logik.md",
-    "ERA/Abstraktionsschichten.md",
     "ERA/Risc V.md",
     "DS/Tutorium 0.md",
+    "DS/Logik.md",
+    "ERA/Abstraktionsschichten.md",
     "Images/screenshot 3.png",
     "screenshot.png",
     "DS/Beweise.md",
