@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EIDI/Software.md",
+                "file": "EIDI/Datenstrukturen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "Datenstrukturen"
             }
           }
         ]
@@ -172,20 +172,24 @@
   },
   "active": "b84f510653336536",
   "lastOpenFiles": [
+    "EIDI/Funktionen.md",
+    "EIDI/Programme.md",
+    "EIDI/Datenstrukturen.md",
+    "ERA/Abstraktionsschichten.md",
+    "DS/Tutorium 0.md",
+    "EIDI/Software.md",
+    "ERA/Risc V.md",
+    "ERA/Tutorium 0.md",
+    "DS/Beweise.md",
+    "DS/Logik.md",
+    "DS/Mengen.md",
     "Termine.md",
     "Notizen.md",
     "TODO.md",
-    "DS/Tutorium 0.md",
-    "DS/Logik.md",
-    "EIDI/Software.md",
-    "ERA/Risc V.md",
     "EIDI",
-    "ERA/Abstraktionsschichten.md",
     "ERA/Zentralübung 0.md",
     "ERA/Organisation.md",
     "Screenshot_2025-10-20_12-09-28.png",
-    "DS/Beweise.md",
-    "DS/Mengen.md",
     "ERA"
   ]
 }

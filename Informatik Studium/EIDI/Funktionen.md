@@ -1,0 +1,3 @@
+- Teil von [[Software]], führt Algorithmen aus
+- Transformiert Eingabedaten in Ausgabedaten
+- 
