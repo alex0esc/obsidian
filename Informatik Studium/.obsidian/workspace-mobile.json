@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "709308f859178466",
+        "id": "c908ea209a37360d",
         "type": "tabs",
         "children": [
           {
-            "id": "6dcc3a498a8094ad",
+            "id": "6a71f73229e4605a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DS/Mengen.md"
+                "file": "ERA/Von Neumann Architektur.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Mengen"
-            }
-          },
-          {
-            "id": "57d2a58d7097ff6d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ERA/Tutorium 0.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tutorium 0"
+              "icon": "lucide-file",
+              "title": "Von Neumann Architektur"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DS/Logik.md",
+            "file": "ERA/Von Neumann Architektur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,38 +155,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "57d2a58d7097ff6d",
+  "active": "6a71f73229e4605a",
   "lastOpenFiles": [
+    "Images/screenshot 15.png",
+    "Images/screenshot 14.png",
+    "ERA/Programmablauf.md",
+    "ERA/Von Neumann Architektur.md",
     "DS/Mengen.md",
+    "ERA/Organisation.md",
+    "EIDI/Programme.md",
+    "EIDI/Untitled.md",
+    "EIDI/Software.md",
+    "ERA/Hausaufgabe 1.md",
+    "DS/Relationen.md",
+    "Images/screenshot 13.png",
+    "Images/screenshot 12.png",
+    "DS/Induktion.md",
+    "DS/Untitled.md",
+    "EIDI/Funktionen.md",
+    "EIDI/Datenstrukturen.md",
+    "DS/Tutorium 1.md",
+    "Images/screenshot 11.png",
+    "Images/screenshot 10.png",
+    "Images/screenshot 9.png",
+    "DS/Natürliche Zahlen.md",
+    "ERA/Zentralübung 1.md",
+    "Images/screenshot 8.png",
+    "Induktion.md",
     "ERA/Tutorium 0.md",
+    "Images/screenshot 7.png",
     "Images/screenshot 6.png",
     "ERA/Risc V.md",
     "Images/screenshot 5.png",
-    "Images/screenshot 4.png",
     "DS/Logik.md",
     "ERA/Zentralübung 0.md",
-    "ERA/Hausaufgabe 1.md",
-    "ERA/Hausaufgabe 1.md",
-    "EIDI/Software.md",
     "DS/Tutorium 0.md",
     "ERA/Abstraktionsschichten.md",
-    "Images/screenshot 3.png",
-    "screenshot.png",
     "DS/Beweise.md",
-    "Images/screenshot 1.png",
     "TODO.md",
-    "Images/screenshot.png",
     "Images",
-    "Images/screenshot 2.png",
-    "Notizen.md",
-    "2025-10-20.md",
-    "Images/image.jpg",
-    "Untitled.md",
-    "ERA/Organisation.md",
-    "Images/Screenshot_2025-10-20_12-09-28.png",
-    "DS/Tutorium 1.md",
-    "ERA/Untitled 1.md",
-    "Termine.md",
     "TODO",
     "DS",
     "GPP",

@@ -10,5 +10,12 @@
 - Initialisierung durch den Konstruktor
 - Allokation von Speicher durch das Aufrufen von "new"
 - Objekt b = a;   **b verweist auf den selben Speicher**
+- Objekte als Attribute => Adresse wird übergeben nicht das Objekt selbst, keine Kopie
+- „static“, wert ist für alle Klassen gleich
+
+#### Primitive Typen
+- Wenn als Attribut übergeben, wird der Wert kopiert
+
+
 
 #### Arrays
