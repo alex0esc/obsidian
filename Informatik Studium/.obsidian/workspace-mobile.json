@@ -11,12 +11,14 @@
             "id": "ec5e835e821d6c2a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DS/Relationen.md"
+                "file": "EIDI/Software.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Relationen"
+              "icon": "lucide-file",
+              "title": "Software"
             }
           }
         ]
@@ -155,8 +157,8 @@
   },
   "active": "ec5e835e821d6c2a",
   "lastOpenFiles": [
-    "DS/Induktion.md",
     "DS/Relationen.md",
+    "DS/Induktion.md",
     "DS/Hausaufgabe 0.md",
     "Images/image_0.jpg",
     "Images/exercise_sheet_02.pdf",
