@@ -19,3 +19,5 @@
 
 
 #### Arrays
+- Syntax: int array = new int[n];
+- Immer referanz auch bei primitiven datentypen

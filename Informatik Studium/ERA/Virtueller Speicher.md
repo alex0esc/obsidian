@@ -1,0 +1,5 @@
+- Hauptspeicher wird nicht direkt von Software verwendet
+- Sowftware kennt nur den Virtuellen Speicherraum
+- MMU weißt virtuellem Speicher Physischen Speicher zu (mapping)
+- virtueller Speicher muss nicht zwingend auf den Ram gemappt werden, kann auch auf GPU Speicher etc. verweisen
+- CPU Geschwindigkeit ist aber höher als Speichergeschwindigkeit, mit auch wegen MMU (Memory Management Unit) => Lösung [[Caching]]

@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c908ea209a37360d",
+        "id": "228dceb2b0aed867",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5e835e821d6c2a",
+            "id": "d0f31afba07bd00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EIDI/Software.md",
+                "file": "ERA/Caching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "Caching"
+            }
+          },
+          {
+            "id": "fb09b606e6124e46",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ERA/Tutorium 3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Tutorium 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,11 +111,11 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DS/Hausaufgabe 0.md",
+            "file": "ERA/Tutorium 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -155,44 +168,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec5e835e821d6c2a",
+  "active": "fb09b606e6124e46",
   "lastOpenFiles": [
+    "Images/screenshot 23.png",
+    "ERA/Untitled.md",
+    "ERA/Tutorium 3.md",
+    "ERA/Caching.md",
+    "Images/screenshot 22.png",
+    "Images/screenshot 21.png",
+    "DS/Uendliche Mengen.md",
+    "ERA/Virtueller Speicher.md",
     "DS/Relationen.md",
+    "EIDI/Datenstrukturen.md",
+    "EIDI/Drawing.md",
+    "DS/Tutorium 3.md",
+    "ERA/Virtuelle vs Physikalische Adressen.md",
+    "Images/Safari.pdf",
+    "EIDI/Funktionen.md",
+    "ERA/Betriebsysteme.md",
+    "ERA/Tutorium 2.md",
+    "DS/Hausaufgabe 1.md",
+    "Images/screenshot 20.png",
+    "ERA/AARM Architecture.md",
+    "ERA/Von Neumann Architektur.md",
+    "DS/Funktionen.md",
+    "Images/screenshot 19.png",
+    "DS/Tutorium 2.md",
+    "DS/F.md",
+    "DS/Natürliche Zahlen.md",
+    "EIDI/Software.md",
+    "Images/screenshot 18.png",
+    "Images/screenshot 17.png",
+    "ERA/Adressierungsarten.md",
+    "Images/screenshot 16.png",
     "DS/Induktion.md",
     "DS/Hausaufgabe 0.md",
     "Images/image_0.jpg",
     "Images/exercise_sheet_02.pdf",
-    "ERA/Von Neumann Architektur.md",
     "Images/screenshot 15.png",
     "Images/screenshot 14.png",
     "ERA/Programmablauf.md",
-    "DS/Mengen.md",
-    "ERA/Organisation.md",
-    "EIDI/Programme.md",
-    "EIDI/Untitled.md",
-    "EIDI/Software.md",
-    "ERA/Hausaufgabe 1.md",
-    "Images/screenshot 13.png",
-    "Images/screenshot 12.png",
-    "DS/Untitled.md",
-    "EIDI/Funktionen.md",
-    "EIDI/Datenstrukturen.md",
-    "DS/Tutorium 1.md",
-    "Images/screenshot 11.png",
-    "Images/screenshot 10.png",
-    "Images/screenshot 9.png",
-    "DS/Natürliche Zahlen.md",
-    "ERA/Zentralübung 1.md",
-    "Images/screenshot 8.png",
-    "Induktion.md",
-    "ERA/Tutorium 0.md",
-    "Images/screenshot 7.png",
-    "ERA/Risc V.md",
-    "DS/Logik.md",
-    "ERA/Zentralübung 0.md",
-    "DS/Tutorium 0.md",
-    "ERA/Abstraktionsschichten.md",
-    "DS/Beweise.md",
     "Images",
     "TODO",
     "DS",

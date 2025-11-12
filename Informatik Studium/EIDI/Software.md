@@ -2,5 +2,6 @@
 - Wird fast überall verwendet
 - Verarbeitet Input und gibt Output aus => Funktion
 - Algorithmus ist die Beschreibung eines Programmablaufs
-- Fromal parameter (x, y, a, b)
-	- Aktual paramter (1, 5, „Hello world!“) => Werte für die Paramter
+- Fromal parameter (x, y, b)
+- Aktual paramter (1, 5, „Hello world!“) => Werte für die Paramter
+- Fault, Error, Failure

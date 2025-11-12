@@ -1,0 +1,3 @@
+- Nur prozessor Architektur, kein eigenes Produkt
+- Sehr ähnlich zur Risc V architektur
+- Flags, comp => bne, beq, etc.
